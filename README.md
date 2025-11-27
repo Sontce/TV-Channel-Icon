@@ -6,4 +6,5 @@ TV Channel  Icon stock
 - https://sontce.github.io/TV-Channel-Icon/FWDoc.png
 - https://sontce.github.io/TV-Channel-Icon/FWTOON.png
 - https://sontce.github.io/TV-Channel-Icon/FWsport.png
+- https://sontce.github.io/TV-Channel-Icon/TopNews.png
 
