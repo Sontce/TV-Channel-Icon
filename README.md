@@ -8,3 +8,4 @@ TV Channel  Icon stock
 - https://sontce.github.io/TV-Channel-Icon/FWsport.png
 - https://sontce.github.io/TV-Channel-Icon/TopNews.png
 - https://sontce.github.io/TV-Channel-Icon/MCOT_Radio.png
+- https://sontce.github.io/TV-Channel-Icon/HotwaveFM.jpg
