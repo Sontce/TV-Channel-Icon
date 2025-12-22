@@ -12,3 +12,4 @@ TV Channel  Icon stock
 - https://sontce.github.io/TV-Channel-Icon/EFM.png
 - https://sontce.github.io/TV-Channel-Icon/GreenWave.png
 - https://sontce.github.io/TV-Channel-Icon/Great93FM.png
+- https://sontce.github.io/TV-Channel-Icon/TheShockFM.png
