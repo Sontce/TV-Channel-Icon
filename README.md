@@ -8,7 +8,7 @@ TV Channel  Icon stock
 - https://sontce.github.io/TV-Channel-Icon/FWsport.png
 - https://sontce.github.io/TV-Channel-Icon/TopNews.png
 - https://sontce.github.io/TV-Channel-Icon/MCOT_Radio.png
-- https://sontce.github.io/TV-Channel-Icon/HotwaveFM.jpg
+- https://sontce.github.io/TV-Channel-Icon/Hot91_5.png
 - https://sontce.github.io/TV-Channel-Icon/EFM.png
 - https://sontce.github.io/TV-Channel-Icon/GreenWave.png
 - https://sontce.github.io/TV-Channel-Icon/Great93FM.png
