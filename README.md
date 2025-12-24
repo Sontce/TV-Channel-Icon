@@ -18,3 +18,4 @@ TV Channel  Icon stock
 - https://sontce.github.io/TV-Channel-Icon/FAT93.png
 - https://sontce.github.io/TV-Channel-Icon/HeartFM.png
 - https://sontce.github.io/TV-Channel-Icon/totally.png
+- https://sontce.github.io/TV-Channel-Icon/HITzThailand.png
