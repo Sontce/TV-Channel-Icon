@@ -26,3 +26,4 @@ TV Channel  Icon stock
 - https://sontce.github.io/TV-Channel-Icon/AlJazeera.png
 - https://sontce.github.io/TV-Channel-Icon/FoxNews.png
 - https://sontce.github.io/TV-Channel-Icon/France24.png
+- https://sontce.github.io/TV-Channel-Icon/RT.png
