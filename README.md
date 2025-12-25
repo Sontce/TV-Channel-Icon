@@ -22,3 +22,4 @@ TV Channel  Icon stock
 - https://sontce.github.io/TV-Channel-Icon/Hot899.png
 - https://sontce.github.io/TV-Channel-Icon/CNN.png
 - https://sontce.github.io/TV-Channel-Icon/CNA.png
+- https://sontce.github.io/TV-Channel-Icon/DW.png
