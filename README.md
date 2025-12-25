@@ -33,3 +33,4 @@ TV Channel  Icon stock
 - https://sontce.github.io/TV-Channel-Icon/BBC.png
 - https://sontce.github.io/TV-Channel-Icon/CBS.png
 - https://sontce.github.io/TV-Channel-Icon/CGTN.png
+- https://sontce.github.io/TV-Channel-Icon/Swannabhumi.png
