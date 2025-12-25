@@ -29,3 +29,4 @@ TV Channel  Icon stock
 - https://sontce.github.io/TV-Channel-Icon/RT.png
 - https://sontce.github.io/TV-Channel-Icon/NHK_World.png
 - https://sontce.github.io/TV-Channel-Icon/FashionTV.png
+- https://sontce.github.io/TV-Channel-Icon/abcNews.png
