@@ -21,3 +21,4 @@ TV Channel  Icon stock
 - https://sontce.github.io/TV-Channel-Icon/HITzThailand.png
 - https://sontce.github.io/TV-Channel-Icon/Hot899.png
 - https://sontce.github.io/TV-Channel-Icon/CNN.png
+- https://sontce.github.io/TV-Channel-Icon/CNA.png
