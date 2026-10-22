@@ -1,6 +1,10 @@
 # TV-Channel-Icon
 TV Channel  Icon stock
 
+- https://sontce.github.io/TV-Channel-Icon/5HD.png
+- https://sontce.github.io/TV-Channel-Icon/TPBS.png
+- https://sontce.github.io/TV-Channel-Icon/7HD.png
+- https://sontce.github.io/TV-Channel-Icon/TPBS.png
 - https://sontce.github.io/TV-Channel-Icon/NBT.png
 - https://sontce.github.io/TV-Channel-Icon/3HD.png
 - https://sontce.github.io/TV-Channel-Icon/FWMOV.png
