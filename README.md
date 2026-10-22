@@ -1,6 +1,8 @@
 # TV-Channel-Icon
 TV Channel  Icon stock
 
+
+- https://sontce.github.io/TV-Channel-Icon/AMARIN.png
 - https://sontce.github.io/TV-Channel-Icon/Thairath.png
 - https://sontce.github.io/TV-Channel-Icon/Ch8.png
 - https://sontce.github.io/TV-Channel-Icon/One.png
